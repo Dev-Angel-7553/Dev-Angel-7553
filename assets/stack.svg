@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="678" height="222" viewBox="0 0 678 222" role="img" aria-label="стек">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0c0c0c"/><stop offset="55%" stop-color="#060606"/><stop offset="100%" stop-color="#0a0a0a"/></linearGradient>
+<radialGradient id="halo" cx="50%" cy="40%" r="62%"><stop offset="0%" stop-color="#18b7a3" stop-opacity="0.16"/><stop offset="58%" stop-color="#18b7a3" stop-opacity="0.035"/><stop offset="100%" stop-color="#18b7a3" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#18b7a3" stop-opacity="0.04"/><stop offset="50%" stop-color="#18b7a3" stop-opacity="0.55"/><stop offset="100%" stop-color="#18b7a3" stop-opacity="0.04"/></linearGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-opacity="0.032" stroke-width="1"/></pattern>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<mask id="gridmask"><rect width="678" height="222" fill="url(#fade)"/></mask>
+</defs>
+<rect width="678" height="222" rx="20" fill="url(#bg)"/>
+<rect width="678" height="222" rx="20" fill="url(#grid)" mask="url(#gridmask)"/>
+<rect width="678" height="222" rx="20" fill="url(#halo)"/>
+<text x="166" y="50" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2.4" fill="#18b7a3" fill-opacity="0.8">ЯЗЫКИ</text>
+<rect x="179" y="29" width="1.5" height="32" rx="0.75" fill="#18b7a3" fill-opacity="0.26"/>
+<rect x="192" y="22" width="106" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="245" y="52" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">Python</text>
+<rect x="311" y="22" width="60" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="341" y="52" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">C#</text>
+<rect x="384" y="22" width="83" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="425" y="52" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">Java</text>
+<rect x="480" y="22" width="152" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="556" y="52" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">JavaScript</text>
+<rect x="34" y="77" width="610" height="1" fill="url(#edge)" opacity="0.5"/>
+<text x="166" y="114" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2.4" fill="#18b7a3" fill-opacity="0.8">БЭКЕНД</text>
+<rect x="179" y="93" width="1.5" height="32" rx="0.75" fill="#18b7a3" fill-opacity="0.26"/>
+<rect x="192" y="86" width="117" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="250" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">FastAPI</text>
+<rect x="322" y="86" width="95" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="369" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">nginx</text>
+<rect x="430" y="86" width="106" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="483" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">Docker</text>
+<rect x="549" y="86" width="95" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="596" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">React</text>
+<rect x="34" y="141" width="610" height="1" fill="url(#edge)" opacity="0.5"/>
+<text x="166" y="178" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2.4" fill="#18b7a3" fill-opacity="0.8">ДАННЫЕ</text>
+<rect x="179" y="157" width="1.5" height="32" rx="0.75" fill="#18b7a3" fill-opacity="0.26"/>
+<rect x="192" y="150" width="117" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="250" y="180" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">MongoDB</text>
+<rect x="322" y="150" width="152" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="398" y="180" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">PostgreSQL</text>
+<rect x="487" y="150" width="95" height="46" rx="12" fill="#18b7a3" fill-opacity="0.08" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.4"/>
+<text x="534" y="180" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#efefef">Redis</text>
+<rect x="1" y="1" width="676" height="220" rx="19" fill="none" stroke="#18b7a3" stroke-opacity="0.32" stroke-width="2"/>
+<rect x="6.5" y="6.5" width="665" height="209" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+<path d="M16 38 L16 16 L38 16" fill="none" stroke="#18b7a3" stroke-opacity="0.5" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M662 38 L662 16 L640 16" fill="none" stroke="#18b7a3" stroke-opacity="0.5" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M16 184 L16 206 L38 206" fill="none" stroke="#18b7a3" stroke-opacity="0.5" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M662 184 L662 206 L640 206" fill="none" stroke="#18b7a3" stroke-opacity="0.5" stroke-width="1.8" stroke-linecap="round"/>
+</svg>

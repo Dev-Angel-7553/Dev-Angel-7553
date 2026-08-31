@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="54" viewBox="0 0 149 54" role="img" aria-label="телеграм">
+<defs>
+<linearGradient id="bgt" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0c0c0c"/><stop offset="55%" stop-color="#060606"/><stop offset="100%" stop-color="#0a0a0a"/></linearGradient>
+<radialGradient id="halot" cx="20%" cy="50%" r="62%"><stop offset="0%" stop-color="#18b7a3" stop-opacity="0.15"/><stop offset="58%" stop-color="#18b7a3" stop-opacity="0.03"/><stop offset="100%" stop-color="#18b7a3" stop-opacity="0"/></radialGradient>
+<linearGradient id="edget" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#18b7a3" stop-opacity="0.04"/><stop offset="50%" stop-color="#18b7a3" stop-opacity="0.6"/><stop offset="100%" stop-color="#18b7a3" stop-opacity="0.04"/></linearGradient>
+<pattern id="gridt" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/></pattern>
+<linearGradient id="fadet" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<mask id="gridmaskt"><rect width="149" height="54" fill="url(#fadet)"/></mask>
+</defs>
+<rect width="149" height="54" rx="13" fill="url(#bgt)"/>
+<rect width="149" height="54" rx="13" fill="url(#halot)"/>
+<path d="M21 28 L47 18 L42 38 L34 31.5 L30 36 L30 29.5 Z" fill="#18b7a3" fill-opacity="0.92"/>
+<text x="60" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" fill="#f0f0f0">телеграм</text>
+<rect x="0.8" y="0.8" width="147.4" height="52.4" rx="12.5" fill="none" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.6"/>
+<rect x="4.5" y="4.5" width="140" height="45" rx="9" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+</svg>
