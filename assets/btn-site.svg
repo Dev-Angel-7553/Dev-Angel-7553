@@ -1,18 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="115" height="54" viewBox="0 0 115 54" role="img" aria-label="сайт">
-<defs>
-<linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0c0c0c"/><stop offset="55%" stop-color="#060606"/><stop offset="100%" stop-color="#0a0a0a"/></linearGradient>
-<radialGradient id="halos" cx="20%" cy="50%" r="62%"><stop offset="0%" stop-color="#18b7a3" stop-opacity="0.15"/><stop offset="58%" stop-color="#18b7a3" stop-opacity="0.03"/><stop offset="100%" stop-color="#18b7a3" stop-opacity="0"/></radialGradient>
-<linearGradient id="edges" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#18b7a3" stop-opacity="0.04"/><stop offset="50%" stop-color="#18b7a3" stop-opacity="0.6"/><stop offset="100%" stop-color="#18b7a3" stop-opacity="0.04"/></linearGradient>
-<pattern id="grids" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/></pattern>
-<linearGradient id="fades" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
-<mask id="gridmasks"><rect width="115" height="54" fill="url(#fades)"/></mask>
-</defs>
-<rect width="115" height="54" rx="13" fill="url(#bgs)"/>
-<rect width="115" height="54" rx="13" fill="url(#halos)"/>
-<circle cx="33" cy="27" r="11" fill="none" stroke="#18b7a3" stroke-opacity="0.9" stroke-width="1.7"/>
-<path d="M22 27 H44" stroke="#18b7a3" stroke-opacity="0.9" stroke-width="1.7" fill="none"/>
-<path d="M33 16 C26.5 23, 26.5 31, 33 38 C39.5 31, 39.5 23, 33 16 Z" fill="none" stroke="#18b7a3" stroke-opacity="0.9" stroke-width="1.7"/>
-<text x="60" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" fill="#f0f0f0">сайт</text>
-<rect x="0.8" y="0.8" width="113.4" height="52.4" rx="12.5" fill="none" stroke="#18b7a3" stroke-opacity="0.34" stroke-width="1.6"/>
-<rect x="4.5" y="4.5" width="106" height="45" rx="9" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="117" height="54" viewBox="0 0 117 54" role="img" aria-label="сайт">
+<title>сайт</title>
+<style>.mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }</style>
+<rect width="117" height="54" rx="6" fill="#0a0a0a"/>
+<rect x=".75" y=".75" width="115.5" height="52.5" rx="5.25" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="28.5" cy="16.8" r="1.25" fill="#ffffff"/>
+<circle cx="31.9" cy="16.8" r="1.25" fill="#ffffff"/>
+<circle cx="35.3" cy="16.8" r="1.25" fill="#ffffff"/>
+<circle cx="25.1" cy="20.2" r="1.25" fill="#ffffff"/>
+<circle cx="31.9" cy="20.2" r="1.25" fill="#ffffff"/>
+<circle cx="38.7" cy="20.2" r="1.25" fill="#ffffff"/>
+<circle cx="21.7" cy="23.6" r="1.25" fill="#ffffff"/>
+<circle cx="31.9" cy="23.6" r="1.25" fill="#ffffff"/>
+<circle cx="42.1" cy="23.6" r="1.25" fill="#ffffff"/>
+<circle cx="21.7" cy="27.0" r="1.25" fill="#ffffff"/>
+<circle cx="25.1" cy="27.0" r="1.25" fill="#ffffff"/>
+<circle cx="28.5" cy="27.0" r="1.25" fill="#ffffff"/>
+<circle cx="31.9" cy="27.0" r="1.25" fill="#ffffff"/>
+<circle cx="35.3" cy="27.0" r="1.25" fill="#ffffff"/>
+<circle cx="38.7" cy="27.0" r="1.25" fill="#ffffff"/>
+<circle cx="42.1" cy="27.0" r="1.25" fill="#ffffff"/>
+<circle cx="21.7" cy="30.4" r="1.25" fill="#ffffff"/>
+<circle cx="31.9" cy="30.4" r="1.25" fill="#ffffff"/>
+<circle cx="42.1" cy="30.4" r="1.25" fill="#ffffff"/>
+<circle cx="25.1" cy="33.8" r="1.25" fill="#ffffff"/>
+<circle cx="31.9" cy="33.8" r="1.25" fill="#ffffff"/>
+<circle cx="38.7" cy="33.8" r="1.25" fill="#ffffff"/>
+<circle cx="28.5" cy="37.2" r="1.25" fill="#ffffff"/>
+<circle cx="31.9" cy="37.2" r="1.25" fill="#ffffff"/>
+<circle cx="35.3" cy="37.2" r="1.25" fill="#ffffff"/>
+<text x="57.8" y="32.0" class="mono" font-size="14" font-weight="600" letter-spacing="0" fill="#ffffff" textLength="37.6" lengthAdjust="spacingAndGlyphs">САЙТ</text>
 </svg>
