@@ -96,7 +96,10 @@ def dot_number(n, x, y, cell=7.0, r=2.6):
 def render(weeks):
     W, H = 1000, 396
     total, active, best, streak = stats(weeks)
-    peak = max([c for w in weeks for _, c in w] or [1]) or 1
+    # levels by quartiles of non-zero days (like GitHub), so one busy day doesn't dim the rest
+    nz = sorted(c for w in weeks for _, c in w if c)
+    qs = [nz[min(len(nz) - 1, int(len(nz) * f))] for f in (.25, .5, .75)] if nz else [1, 1, 1]
+    level = lambda c: 0 if c == 0 else 1 + sum(c > q for q in qs)
     weeks = weeks[-53:]
     b = [f'<rect width="{W}" height="{H}" rx="16" fill="{BG}"/>',
          f'<rect width="{W}" height="{H}" rx="16" fill="url(#dots)"/>',
@@ -121,7 +124,7 @@ def render(weeks):
         dots = []
         for date, c in week:
             wd = (dt.date.fromisoformat(date).weekday() + 1) % 7
-            lvl = 0 if c == 0 else min(4, max(1, math.ceil(c / peak * 4)))
+            lvl = level(c)
             r, col = LEVELS[lvl]
             dots.append(f'<circle cx="{cx:.1f}" cy="{y0 + wd * cell + cell / 2:.1f}" r="{r}" fill="{col}"/>')
         b.append(f'<g class="on" style="animation-delay:{.2 + wi * .012:.3f}s">{"".join(dots)}</g>')
