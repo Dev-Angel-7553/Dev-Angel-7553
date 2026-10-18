@@ -4,7 +4,7 @@
 
 ## ❯ Активность
 
-<p><img src="https://api.dev-angel-7553.dev/api/gh" alt="активность на гитхабе" width="640"></p>
+<p><img src="assets/activity.svg" alt="активность на гитхабе" width="100%"></p>
 
 ## ❯ Стек
 
