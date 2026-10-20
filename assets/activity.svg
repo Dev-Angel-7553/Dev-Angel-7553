@@ -14,7 +14,7 @@
 <rect width="1000" height="396" rx="16" fill="url(#dots)"/>
 <rect x=".5" y=".5" width="999" height="395" rx="15.5" fill="none" stroke="#222222"/>
 <text x="32" y="44" class="mono lbl">( 01 ) // АКТИВНОСТЬ</text>
-<text x="260" y="44" class="mono lbl" style="fill:#555555">ОБНОВЛЕНО 20.10.2026</text>
+<text x="260" y="44" class="mono lbl" style="fill:#555555">ОБНОВЛЕНО 21.10.2026</text>
 <circle cx="876.8" cy="40" r="3.2" fill="#ffffff" class="pulse"/>
 <text x="968" y="44" text-anchor="end" class="mono lbl">63 ЗА ГОД</text>
 <path d="M32 64.5H968" stroke="#222222"/>
