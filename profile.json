@@ -33,7 +33,7 @@
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "Kotlin · TypeScript · Python"
       }
     ]
   },
@@ -61,6 +61,14 @@
         "title": "Main",
         "items": [
           {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:jetpackcompose",
+            "label": "Jetpack Compose"
+          },
+          {
             "icon": "brand:typescript",
             "label": "TypeScript"
           },
@@ -77,6 +85,14 @@
       {
         "title": "Tools",
         "items": [
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          },
+          {
+            "icon": "brand:gradle",
+            "label": "Gradle"
+          },
           {
             "icon": "brand:git",
             "label": "Git"
@@ -103,11 +119,11 @@
     "overrides": {
       "Aria-Android": {
         "icon": "brand:applemusic",
-        "text": "Aria for Android"
+        "text": "Yandex Music client with live lyrics"
       },
       "Aria-Desktop": {
         "icon": "brand:applemusic",
-        "text": "Aria for desktop"
+        "text": "Aria for Linux and Windows"
       },
       "Dev-Angel-7553": {},
       "clawd-pet": {
