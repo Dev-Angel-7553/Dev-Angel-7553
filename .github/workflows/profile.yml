@@ -15,6 +15,11 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      GIT_AUTHOR_NAME: Dev-Angel-7553
+      GIT_AUTHOR_EMAIL: 265250071+Dev-Angel-7553@users.noreply.github.com
+      GIT_COMMITTER_NAME: Dev-Angel-7553
+      GIT_COMMITTER_EMAIL: 265250071+Dev-Angel-7553@users.noreply.github.com
     steps:
       - uses: actions/checkout@v4
       - uses: metawka/expressive-profile@v1
