@@ -118,17 +118,17 @@
     ],
     "overrides": {
       "Aria-Android": {
-        "icon": "brand:applemusic",
+        "icon": "music_note",
         "text": "Yandex Music client with live lyrics"
       },
       "Aria-Desktop": {
-        "icon": "brand:applemusic",
+        "icon": "music_note",
         "text": "Aria for Linux and Windows"
       },
       "Dev-Angel-7553": {},
       "clawd-pet": {
         "text": "An interactive virtual pet for Android — a living Claude right on your screen",
-        "icon": "brand:claudecode"
+        "icon": "brand:claude"
       }
     },
     "empty": "No description yet.",
@@ -143,7 +143,7 @@
     "calendar": "Last 21 days",
     "weekdays": "SMTWTFS",
     "languages": "Languages across my repositories",
-    "showLanguages": true
+    "showLanguages": false
   },
   "streak": {
     "title": "Streak",
