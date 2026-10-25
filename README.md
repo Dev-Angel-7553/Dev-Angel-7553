@@ -8,7 +8,7 @@
 
 <a href="https://github.com/Dev-Angel-7553/Aria-Android"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-aria-android-dark.svg"><img src="assets/project-aria-android-light.svg" width="49%" alt="Aria-Android"></picture></a>&nbsp;<a href="https://github.com/Dev-Angel-7553/Aria-Desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-aria-desktop-dark.svg"><img src="assets/project-aria-desktop-light.svg" width="49%" alt="Aria-Desktop"></picture></a>
 
-<a href="https://github.com/Dev-Angel-7553/Dev-Angel-7553"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dev-angel-7553-dark.svg"><img src="assets/project-dev-angel-7553-light.svg" width="49%" alt="Dev-Angel-7553"></picture></a>&nbsp;<a href="https://github.com/Dev-Angel-7553/clawd-pet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-clawd-pet-dark.svg"><img src="assets/project-clawd-pet-light.svg" width="49%" alt="clawd-pet"></picture></a>
+<a href="https://github.com/Dev-Angel-7553/clawd-pet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-clawd-pet-dark.svg"><img src="assets/project-clawd-pet-light.svg" width="49%" alt="clawd-pet"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

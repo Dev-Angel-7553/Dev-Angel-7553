@@ -94,8 +94,12 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
+    "source": "manual",
+    "repos": [
+      "Aria-Android",
+      "Aria-Desktop",
+      "clawd-pet"
+    ],
     "overrides": {
       "Aria-Android": {
         "icon": "brand:applemusic",
@@ -105,10 +109,7 @@
         "icon": "brand:applemusic",
         "text": "Aria for desktop"
       },
-      "Dev-Angel-7553": {
-        "icon": "brand:github"
-        "text": "My profile"
-      },
+      "Dev-Angel-7553": {},
       "clawd-pet": {
         "text": "An interactive virtual pet for Android — a living Claude right on your screen",
         "icon": "brand:claudecode"
