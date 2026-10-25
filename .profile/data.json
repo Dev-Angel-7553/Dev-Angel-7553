@@ -1,0 +1,260 @@
+{
+ "key": "a529e415",
+ "stars": 10,
+ "contributions": 101,
+ "repos": 11,
+ "followers": 5,
+ "languages": [
+  [
+   "C++",
+   88003129
+  ],
+  [
+   "Java",
+   79533371
+  ],
+  [
+   "C",
+   24588675
+  ],
+  [
+   "Assembly",
+   7741171
+  ],
+  [
+   "Kotlin",
+   3994425
+  ],
+  [
+   "Go",
+   2062113
+  ],
+  [
+   "Perl",
+   1931754
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 4,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 13,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 18,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 10,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 4,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "Aria-Android",
+   "url": "https://github.com/Dev-Angel-7553/Aria-Android",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Aria-Desktop",
+   "url": "https://github.com/Dev-Angel-7553/Aria-Desktop",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "clawd-pet",
+   "url": "https://github.com/Dev-Angel-7553/clawd-pet",
+   "text": "Интерактивный виртуальный питомец для Android - живой Claude прямо на твоём экране",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Aria-Android",
+   "url": "https://github.com/Dev-Angel-7553/Aria-Android",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Aria-Desktop",
+   "url": "https://github.com/Dev-Angel-7553/Aria-Desktop",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "clawd-pet",
+   "url": "https://github.com/Dev-Angel-7553/clawd-pet",
+   "text": "Интерактивный виртуальный питомец для Android - живой Claude прямо на твоём экране",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "onyxgram-desktop",
+   "url": "https://github.com/Dev-Angel-7553/onyxgram-desktop",
+   "text": "OnyxGram Desktop",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Telegram-iOS",
+   "url": "https://github.com/Dev-Angel-7553/Telegram-iOS",
+   "text": "Telegram-iOS",
+   "fork": true,
+   "stars": 1,
+   "language": "Swift",
+   "topics": []
+  },
+  {
+   "name": "Dev-Angel-7553",
+   "url": "https://github.com/Dev-Angel-7553/Dev-Angel-7553",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "onyxgram-android-source",
+   "url": "https://github.com/Dev-Angel-7553/onyxgram-android-source",
+   "text": "Official OnyxGram Android client source code, Telegram API Layer 228",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "modules-for-heroku",
+   "url": "https://github.com/Dev-Angel-7553/modules-for-heroku",
+   "text": "my modules for heroku",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "test",
+   "url": "https://github.com/Dev-Angel-7553/test",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "-",
+   "url": "https://github.com/Dev-Angel-7553/-",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "kinodnevnik",
+   "url": "https://github.com/Dev-Angel-7553/kinodnevnik",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
