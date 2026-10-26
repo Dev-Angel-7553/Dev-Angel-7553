@@ -1,37 +1,29 @@
 {
- "key": "2f099852",
- "stars": 10,
- "contributions": 122,
- "repos": 11,
+ "key": "8429bc7b",
+ "stars": 6,
+ "contributions": 105,
+ "repos": 6,
  "followers": 5,
  "languages": [
   [
-   "C++",
-   88003129
-  ],
-  [
-   "Java",
-   79533371
-  ],
-  [
-   "C",
-   24588675
-  ],
-  [
-   "Assembly",
-   7741171
-  ],
-  [
    "Kotlin",
-   3994425
+   1137007
   ],
   [
-   "Go",
-   2062113
+   "JavaScript",
+   478278
   ],
   [
-   "Perl",
-   1931754
+   "Python",
+   186957
+  ],
+  [
+   "CSS",
+   122324
+  ],
+  [
+   "HTML",
+   600
   ]
  ],
  "days": [
@@ -111,11 +103,15 @@
   ],
   [
    {
-    "c": 21,
+    "c": 22,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -124,27 +120,37 @@
   ]
  ],
  "streak": {
-  "current": 4,
-  "longest": 4
+  "current": 5,
+  "longest": 5
  },
  "pins": [
   {
    "name": "Aria-Android",
    "url": "https://github.com/Dev-Angel-7553/Aria-Android",
-   "text": "",
+   "text": "Unofficial Yandex Music client for Android with word-by-word karaoke lyrics",
    "fork": false,
    "stars": 2,
    "language": "Kotlin",
-   "topics": []
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "music-player",
+    "yandex-music"
+   ]
   },
   {
    "name": "Aria-Desktop",
    "url": "https://github.com/Dev-Angel-7553/Aria-Desktop",
-   "text": "",
+   "text": "Unofficial Yandex Music client for Linux and Windows",
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
-   "topics": []
+   "topics": [
+    "desktop-app",
+    "kotlin",
+    "music-player",
+    "yandex-music"
+   ]
   },
   {
    "name": "clawd-pet",
@@ -160,20 +166,30 @@
   {
    "name": "Aria-Android",
    "url": "https://github.com/Dev-Angel-7553/Aria-Android",
-   "text": "",
+   "text": "Unofficial Yandex Music client for Android with word-by-word karaoke lyrics",
    "fork": false,
    "stars": 2,
    "language": "Kotlin",
-   "topics": []
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "music-player",
+    "yandex-music"
+   ]
   },
   {
    "name": "Aria-Desktop",
    "url": "https://github.com/Dev-Angel-7553/Aria-Desktop",
-   "text": "",
+   "text": "Unofficial Yandex Music client for Linux and Windows",
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
-   "topics": []
+   "topics": [
+    "desktop-app",
+    "kotlin",
+    "music-player",
+    "yandex-music"
+   ]
   },
   {
    "name": "clawd-pet",
@@ -182,24 +198,6 @@
    "fork": false,
    "stars": 1,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "onyxgram-desktop",
-   "url": "https://github.com/Dev-Angel-7553/onyxgram-desktop",
-   "text": "OnyxGram Desktop",
-   "fork": false,
-   "stars": 1,
-   "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "Telegram-iOS",
-   "url": "https://github.com/Dev-Angel-7553/Telegram-iOS",
-   "text": "Telegram-iOS",
-   "fork": true,
-   "stars": 1,
-   "language": "Swift",
    "topics": []
   },
   {
@@ -212,39 +210,12 @@
    "topics": []
   },
   {
-   "name": "onyxgram-android-source",
-   "url": "https://github.com/Dev-Angel-7553/onyxgram-android-source",
-   "text": "Official OnyxGram Android client source code, Telegram API Layer 228",
-   "fork": false,
-   "stars": 1,
-   "language": "Java",
-   "topics": []
-  },
-  {
    "name": "modules-for-heroku",
    "url": "https://github.com/Dev-Angel-7553/modules-for-heroku",
    "text": "my modules for heroku",
    "fork": false,
    "stars": 1,
    "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "test",
-   "url": "https://github.com/Dev-Angel-7553/test",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "-",
-   "url": "https://github.com/Dev-Angel-7553/-",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": null,
    "topics": []
   },
   {
