@@ -1,7 +1,7 @@
 {
- "key": "c8318fa6",
+ "key": "efb5085",
  "stars": 6,
- "contributions": 145,
+ "contributions": 147,
  "repos": 6,
  "followers": 5,
  "languages": [
@@ -103,11 +103,15 @@
   ],
   [
    {
-    "c": 0,
+    "c": 2,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -116,8 +120,8 @@
   ]
  ],
  "streak": {
-  "current": 10,
-  "longest": 10
+  "current": 11,
+  "longest": 11
  },
  "pins": [
   {
