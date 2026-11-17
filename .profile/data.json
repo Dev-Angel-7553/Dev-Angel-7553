@@ -1,29 +1,29 @@
 {
- "key": "829ef49b",
+ "key": "85d69353",
  "stars": 6,
- "contributions": 184,
- "repos": 6,
+ "contributions": 528,
+ "repos": 8,
  "followers": 5,
  "languages": [
+  [
+   "HTML",
+   8672246
+  ],
   [
    "Kotlin",
    1909584
   ],
   [
    "JavaScript",
-   478278
+   924226
+  ],
+  [
+   "CSS",
+   434964
   ],
   [
    "Python",
    189725
-  ],
-  [
-   "CSS",
-   122324
-  ],
-  [
-   "HTML",
-   600
   ]
  ],
  "days": [
@@ -108,11 +108,15 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 112,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 232,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -120,8 +124,8 @@
   ]
  ],
  "streak": {
-  "current": 25,
-  "longest": 25
+  "current": 27,
+  "longest": 27
  },
  "pins": [
   {
@@ -216,6 +220,24 @@
    "fork": false,
    "stars": 1,
    "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "tg-prod",
+   "url": "https://github.com/Dev-Angel-7553/tg-prod",
+   "text": "Telegram production environment updates",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "tg-test",
+   "url": "https://github.com/Dev-Angel-7553/tg-test",
+   "text": "Telegram test environment updates",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
    "topics": []
   },
   {
