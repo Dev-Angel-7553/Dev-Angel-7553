@@ -1,13 +1,13 @@
 {
- "key": "3bde6858",
+ "key": "4624ae49",
  "stars": 6,
- "contributions": 1473,
+ "contributions": 1656,
  "repos": 8,
  "followers": 5,
  "languages": [
   [
    "HTML",
-   8672359
+   8672416
   ],
   [
    "Kotlin",
@@ -123,17 +123,21 @@
     "today": false
    },
    {
-    "c": 168,
+    "c": 273,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 78,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 29,
-  "longest": 29
+  "current": 30,
+  "longest": 30
  },
  "pins": [
   {
